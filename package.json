@@ -1,0 +1,30 @@
+{
+   "name": "disc_collector",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@types/node": "^8.0.29",
+      "ts-node": "3.3.0",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "cors": "^2.8.5",
+      "db-migrate": "^0.11.11",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "orm": "^5.0.5",
+      "pg": "^8.5.1",
+      "reflect-metadata": "^0.1.10",
+      "typeorm": "^0.2.29",
+      "typeorm-seeding": "^1.6.1"
+   },
+   "scripts": {
+      "start": "node -r ts-node/register -r dotenv/config src/index.ts",
+      "orm": "ts-node -r dotenv/config ./node_modules/typeorm/cli.js --config src/ormconfig.ts",
+      "makeMigrations": "yarn orm migration:generate",
+      "migrate": "yarn orm migration:run",
+      "seeder": "ts-node -r dotenv/config ./node_modules/typeorm-seeding/dist/cli.js",
+      "seed": "yarn seeder --configName src/ormconfig.ts seed",
+      "rollback": "yarn orm migration:revert"
+   }
+}

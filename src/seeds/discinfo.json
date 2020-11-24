@@ -1,0 +1,106 @@
+[
+  {
+    "artist": "chelmico",
+    "release": 2020,
+    "disc": "Disco (Bad dance doesn't matter)",
+    "genre":"J POP",
+    "youtube":"https://www.youtube.com/watch?v=4gQ0ALMOkBs",
+    "cover":"https://m.media-amazon.com/images/I/71aBbA7lrHL._SS500_.jpg"
+  },
+  {
+    "artist": "La Garfield",
+    "release": 2016,
+    "disc": "Love",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=CS4PncBFt6o",
+    "cover":"https://m.media-amazon.com/images/I/61s-8tgA2hL._SS500_.jpg"
+  },
+  {
+    "artist": "La Garfield",
+    "release": 2016,
+    "disc": "Love",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=CS4PncBFt6o",
+    "cover":"https://m.media-amazon.com/images/I/61s-8tgA2hL._SS500_.jpg"
+  },
+  {
+    "artist": "tofubeats",
+    "release": 2014,
+    "disc": "ディスコの神様 feat.藤井隆",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=4TtiPT8mwJ0",
+    "cover":"https://images-na.ssl-images-amazon.com/images/I/61gmL-VdFHL._AC_.jpg"
+  },
+    {
+    "artist": "Redbone",
+    "release": 1974,
+    "disc": "Come and Get Your Love",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=bc0KhhjJP98",
+    "cover":"https://images-na.ssl-images-amazon.com/images/I/61f3Egcy6eL._AC_.jpg"
+  },
+    {
+    "artist": "The Chemical Brothers",
+    "release": 2019,
+    "disc": "Out Of Control (The Avalanches Surrender To Love Mix / Visualiser)",
+    "genre":"Electro POP",
+    "youtube":"https://www.youtube.com/watch?v=_DYL2pQX2rk",
+    "cover":"https://m.media-amazon.com/images/I/71njhSgo2fL._SS500_.jpg"
+  },
+    {
+    "artist": "Midnight Magic",
+    "release": 2010,
+    "disc": "Beam Me Up (Jacques Renault Remix)",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=MH_rFKhdk1M",
+    "cover":"https://img.discogs.com/kF3qJiOkqmwXogK35aKm3DU9UHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348961-1280589189.jpeg.jpg"
+  },
+    {
+    "artist": "The Chemical Brothers",
+    "release": 2019,
+    "disc": "Out Of Control (The Avalanches Surrender To Love Mix / Visualiser)",
+    "genre":"Electro POP",
+    "youtube":"https://www.youtube.com/watch?v=_DYL2pQX2rk",
+    "cover":"https://m.media-amazon.com/images/I/71njhSgo2fL._SS500_.jpg"
+  },
+    {
+    "artist": "MACROSS 82-99",
+    "release": 2018,
+    "disc": "City Lights (feat. Kamei)",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=3b7Urw3KFhM",
+    "cover":"https://f4.bcbits.com/img/a2631064043_10.jpg"
+  },
+    {
+    "artist": "BB Man",
+    "release": 2014,
+    "disc": "Twisted Soul Collective",
+    "genre":"Soul",
+    "youtube":"https://www.youtube.com/watch?v=3b7Urw3KFhM",
+    "cover":"https://m.media-amazon.com/images/I/71n5RNJpZkL._SS500_.jpg"
+  },
+    {
+    "artist": "TWRP",
+    "release": 2017,
+    "disc": "Atomic Karate",
+    "genre":"Electro Disco",
+    "youtube":"https://www.youtube.com/watch?v=V4tSXOLPf_4",
+    "cover":"https://pachira-jp.up.seesaa.net/image/ladyworld.jpg"
+  },
+    {
+    "artist": "Dua Lipa",
+    "release": 2019,
+    "disc": "Don't Start Now (Purple Disco Machine Remix)",
+    "genre":"Disco POP",
+    "youtube":"https://www.youtube.com/watch?v=hPIeXI_cxkU",
+    "cover":"https://img.discogs.com/eS_d_8yyZxrW8IpvhRqaJJJdcMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14677745-1579451343-3636.jpeg.jpg"
+  },
+    {
+    "artist": "Stevie Wonder",
+    "release": 1976,
+    "disc": "Another Star",
+    "genre":"Disco",
+    "youtube":"https://www.youtube.com/watch?v=K9KKBvWTdMQ",
+    "cover":"https://img.discogs.com/fr-U1voe1mWM1ZRS_fAOi0ruAoM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2309581-1278958396.jpeg.jpg"
+  }
+]

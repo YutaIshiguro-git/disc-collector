@@ -1,0 +1,16 @@
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('chelmico',2020,'Disco (Bad dance doesn''t matter)','J POP','https://www.youtube.com/watch?v=4gQ0ALMOkBs','https://m.media-amazon.com/images/I/71aBbA7lrHL._SS500_.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('La Garfield',2016,'Love','Disco','https://www.youtube.com/watch?v=CS4PncBFt6o','https://m.media-amazon.com/images/I/61s-8tgA2hL._SS500_.jpg');
+
+
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('tofubeats',2014,'ディスコの神様 feat.藤井隆','Disco','https://www.youtube.com/watch?v=4TtiPT8mwJ0','https://images-na.ssl-images-amazon.com/images/I/61gmL-VdFHL._AC_.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('Redbone',1974,'Come and Get Your Love','Disco','https://www.youtube.com/watch?v=bc0KhhjJP98','https://images-na.ssl-images-amazon.com/images/I/61f3Egcy6eL._AC_.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('The Chemical Brothers',2019,'Out Of Control (The Avalanches Surrender To Love Mix / Visualiser)','Electro POP','https://www.youtube.com/watch?v=_DYL2pQX2rk','https://m.media-amazon.com/images/I/71njhSgo2fL._SS500_.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('Midnight Magic',2010,'Beam Me Up (Jacques Renault Remix)','Disco','https://www.youtube.com/watch?v=MH_rFKhdk1M','https://img.discogs.com/kF3qJiOkqmwXogK35aKm3DU9UHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348961-1280589189.jpeg.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('The Chemical Brothers',2019,'Out Of Control (The Avalanches Surrender To Love Mix / Visualiser)','Electro POP','https://www.youtube.com/watch?v=_DYL2pQX2rk','https://m.media-amazon.com/images/I/71njhSgo2fL._SS500_.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('MACROSS 82-99',2018,'City Lights (feat. Kamei)','Disco','https://www.youtube.com/watch?v=3b7Urw3KFhM','https://f4.bcbits.com/img/a2631064043_10.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('BB Man',2014,'Twisted Soul Collective','Soul','https://www.youtube.com/watch?v=3b7Urw3KFhM','https://m.media-amazon.com/images/I/71n5RNJpZkL._SS500_.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('TWRP',2017,'Atomic Karate','Electro Disco','https://www.youtube.com/watch?v=V4tSXOLPf_4','https://pachira-jp.up.seesaa.net/image/ladyworld.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('Dua Lipa',2019,'Don''t Start Now (Purple Disco Machine Remix)','Disco POP','https://www.youtube.com/watch?v=hPIeXI_cxkU','https://img.discogs.com/eS_d_8yyZxrW8IpvhRqaJJJdcMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14677745-1579451343-3636.jpeg.jpg');
+INSERT INTO catalogue (artist, release, disc, genre, youtube, cover) VALUES('Stevie Wonder',1976,'Another Star','Disco','https://www.youtube.com/watch?v=K9KKBvWTdMQ','https://img.discogs.com/fr-U1voe1mWM1ZRS_fAOi0ruAoM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2309581-1278958396.jpeg.jpg');
+
+COMMIT;
